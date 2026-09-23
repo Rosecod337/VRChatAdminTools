@@ -2,4 +2,4 @@
 
 Официальные установщики и обновления VRChat Admin Tools для Windows.
 
-[Сайт проекта](https://vrchatadmintools.ru) · [Релизы](https://github.com/Rosecod337/VRChatAdminTools/releases)
+[Скачать последнюю версию](https://vrchatadmintools.ru/download) · [Открытый исходный код 2.0](https://github.com/Rosecod337/VRChatAdminToolsPublic/tree/v2.0.0) · [Прежняя версия 1.1.8](https://github.com/Rosecod337/VRChatAdminToolsPublic/releases/tag/v1.1.8)
