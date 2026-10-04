@@ -2,4 +2,14 @@
 
 Официальные установщики и обновления VRChat Admin Tools для Windows.
 
-[Скачать последнюю версию](https://vrchatadmintools.ru/download) · [Открытый исходный код 2.0.1](https://github.com/Rosecod337/VRChatAdminToolsPublic/tree/675967aabdae72d1fdaf703220b00399e66dd525) · [Прежняя версия 1.1.8](https://github.com/Rosecod337/VRChatAdminToolsPublic/releases/tag/v1.1.8)
+## Версия 2.1
+
+Единый интерфейс Studio, 10 цветовых палитр, короткое обучение с подсветкой, отдельные настройки, автоматическое обновление списков и новые игры памяти/реакции.
+
+Бесплатно доступны локальный поиск, история и центр приватности. По ключу — фотоатлас, маршруты, отчёты, правила внимания, подготовка сессии, диагностические записи и командный журнал.
+
+[Скачать последнюю версию](https://vrchatadmintools.ru/download) · [Все изменения 2.1](https://github.com/Rosecod337/VRChatAdminTools/releases/tag/v2.1.0) · [Открытый исходный код 2.1.0](https://github.com/Rosecod337/VRChatAdminToolsPublic/tree/6bf84b4a18a514b011a9a50a683ecef59f17b910)
+
+Обновление сохраняет ключ и рабочие данные. Прежнее оформление переводится на Studio; произвольные шрифты и стили элементов больше не применяются.
+
+[Прежняя версия 1.1.8](https://github.com/Rosecod337/VRChatAdminToolsPublic/releases/tag/v1.1.8) остаётся на отдельном канале обновлений.
